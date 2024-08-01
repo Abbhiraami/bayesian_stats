@@ -1,0 +1,7 @@
+Requirement already satisfied: jax in c:\users\shambhavvisen\appdata\local\programs\python\python39\lib\site-packages (0.4.28)
+Requirement already satisfied: ml-dtypes>=0.2.0 in c:\users\shambhavvisen\appdata\local\programs\python\python39\lib\site-packages (from jax) (0.4.0)
+Requirement already satisfied: numpy>=1.22 in c:\users\shambhavvisen\appdata\local\programs\python\python39\lib\site-packages (from jax) (1.26.4)
+Requirement already satisfied: opt-einsum in c:\users\shambhavvisen\appdata\local\programs\python\python39\lib\site-packages (from jax) (3.3.0)
+Requirement already satisfied: scipy>=1.9 in c:\users\shambhavvisen\appdata\local\programs\python\python39\lib\site-packages (from jax) (1.13.0)
+Requirement already satisfied: importlib-metadata>=4.6 in c:\users\shambhavvisen\appdata\local\programs\python\python39\lib\site-packages (from jax) (7.1.0)
+Requirement already satisfied: zipp>=0.5 in c:\users\shambhavvisen\appdata\local\programs\python\python39\lib\site-packages (from importlib-metadata>=4.6->jax) (3.18.2)
